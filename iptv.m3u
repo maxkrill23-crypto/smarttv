@@ -116,8 +116,6 @@ http://92.43.140.249/s33/index.m3u8
 https://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://i.imgur.com/Q4A6ci4.png", Cartoon Network
 http://stream01.vnet.am/Kinosemya/mono.m3u8
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://i.imgur.com/a8ZBGBw.png",Amedia Hit 
-http://178.163.83.19:4022/udp/234.0.0.169:2000
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://i.imgur.com/UUjehw9.png",Amedia Premium
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://i.imgur.com/nr1Y67Z.png",FOX
